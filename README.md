@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![Lesego's GitHub stats](https://github-readme-stats.vercel.app/api?username=LESEGO-KUTLWANO-TSHABALALA&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LESEGO-KUTLWANO-TSHABALALA&layout=compact&theme=graywhite)
-
----
 
 ### 📫 Connect With Me:
 
